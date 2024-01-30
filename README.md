@@ -6,7 +6,7 @@ teams a sophisticated, data-driven framework for making informed decisions on pl
 approach and discrete optimization through Mixed-Integer Programming (MIP), the project
 aims to assess player selections and critically evaluate coaching decisions.
 1. Optimizing Player Selection and Transfers
-Manchester City (2016-2017 Season)
+1.1 Manchester City (2016-2017 Season)
 Manchester City, a top-tier English football club, faced a pivotal season in 2016-2017, marked by
 a transformation under the stewardship of new manager Pep Guardiola. This period represented
 a shift towards an innovative playing style, and our analysis centered on utilizing optimization
@@ -17,7 +17,7 @@ especially against formidable opponents like Barcelona and Liverpool. By applyin
 models to comprehensive player data, our objective was to strategically strengthen the team
 through targeted transfers, thereby setting the stage for Guardiola to achieve success in the
 upcoming seasons.
-Manchester United (2016-2017 Season)
+2. Manchester United (2016-2017 Season)
 In contrast, Manchester United, another Premier League powerhouse, embarked on a different
 tactical journey under the guidance of coach Jos´e Mourinho. Similar to Guardiola, Mourinho’s
 approach involved a blend of tactical formations, notably shifting between 4-2-3-1 and 4-3-3.1
